@@ -13,5 +13,5 @@ Instructions for Alick :grin:
 - Use **Github Desktop** application
  - First enter a **Summary** of the changes (bottom left of window)
  - **Commit** the changes to your codebase (bottom left again)
- - Then **Push** the files to Github (top middle of window)
+ - Then **Push** the files to Github ("Push origin", top middle of window)
 - This will update your website!
