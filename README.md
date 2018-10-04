@@ -11,7 +11,7 @@ Instructions for Alick :grin:
 - Local copy of the site code is in `d:/shaka sci/shakasci.github.io`
 - Edit / add / remove files to taste
 - Use **Github Desktop** application
- - First enter a **Summary** of the changes (bottom left of window)
- - **Commit** the changes to your codebase (bottom left again)
- - Then **Push** the files to Github ("Push origin", top middle of window)
+  - First enter a **Summary** of the changes (bottom left of window)
+  - **Commit** the changes to your codebase (bottom left again)
+  - Then **Push** the files to Github ("Push origin", top middle of window)
 - This will update your website!
